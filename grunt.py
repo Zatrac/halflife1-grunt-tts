@@ -11,7 +11,7 @@ from pydub import AudioSegment
 
 sentence = []
 DONE = False
-COLUMN_WIDTH = 8
+COLUMN_WIDTH = 4
 
 def get_files(extensions):
     '''
